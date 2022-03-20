@@ -100,11 +100,6 @@ types and define common (and not so common) operations on them.
 - [gsl-nim](https://github.com/YesDrX/gsl-nim) ⇐ GSL provides
   [many linear algebra](https://www.gnu.org/software/gsl/doc/html/linalg.html) routines
 
-## Algebra
-
-- [emmy](https://github.com/andreaferretti/emmy) ⇐ Algebraic structures and operations on them
-- [nim-algebra](https://github.com/MichalMarsalek/nim-algebra) ⇐ implements many routines for rings, fields and groups
-
 ## Symbolic operations
 
 Libraries dealing with symbolic instead of numeric operations.
@@ -227,6 +222,10 @@ These libraries implement different [special functions](https://en.wikipedia.org
 
 ## Mathematics
 
+These are mathematics libraries that don't fit well into any of the other categories.
+
+- [emmy](https://github.com/andreaferretti/emmy) ⇐ Algebraic structures and operations on them
+- [nim-algebra](https://github.com/MichalMarsalek/nim-algebra) ⇐ implements many routines for rings, fields and groups
 - [perms-nim](https://github.com/remigijusj/perms-nim) ⇐ library for permutation group calculations and factorization algorithms
 
 ## Other useful libraries
