@@ -238,8 +238,7 @@ These are mathematics libraries that don't fit well into any of the other catego
 - [nim-opencv](https://github.com/dom96/nim-opencv) ⇐ Nim wrapper for [OpenCV](https://en.wikipedia.org/wiki/OpenCV)
 - [zero-functional](https://github.com/zero-functional/zero-functional) ⇐ library for zero cost chaining of
   functional primitves (map, apply, fold, ...). Fuses multiple operations into a single loop.
-- [iterrr](https://github.com/hamidb80/iterrr) ⇐ another library for zero cost chaining, similar to `zero-functional`. Aims to be
-  easier to extend.
+- [iterrr](https://github.com/hamidb80/iterrr) ⇐ another library for zero cost chaining, similar to `zero-functional`. Aims to be easier to extend.
 - [flower](https://github.com/dizzyliam/flower) ⇐ pure Nim bloom filter, probabilistic data structure to check if
   elements are in a set ("possibly in set" vs. "definitely not in set"). Supports arbitrary Nim types in single filter.
 - pattern matching:
@@ -249,6 +248,8 @@ These are mathematics libraries that don't fit well into any of the other catego
   - [patty](https://github.com/andreaferretti/patty)
   - [gara](https://github.com/alehander92/gara)
 - [Synthesis](https://github.com/mratsim/Synthesis) ⇐ DSL to generate statically checked state machines
+- [nimib](https://github.com/pietroppeter/nimib) ⇐ DSL to generate HTML files from Nim files. This file is a Nimib file used in [nimibook](https://github.com/pietroppeter/nimibook)!
+- [inim](https://github.com/inim-repl/INim) ⇐ A REPL for Nim
 - [jupyternim](https://github.com/stisa/jupyternim) ⇐ Jupyter kernel for Nim
 - [cligen](https://github.com/c-blake/cligen) ⇐ elegant library to write CLI interfaces
 - [LatexDSL](https://github.com/Vindaar/LatexDSL) ⇐ DSL to generate CT checked latex strings, supporting Nim variable interpolation
@@ -259,6 +260,7 @@ These are mathematics libraries that don't fit well into any of the other catego
   function calls)
 - [forematics](https://github.com/treeform/forematics) ⇐ Nim implementation of a [Metamath](http://us.metamath.org/) verifier
 - [DeepLearningNim](https://github.com/Niminem/DeepLearningNim) ⇐ example of building a DQN with arraymancer
+- [nim-sos](https://github.com/ct-clmsn/nim-sos) ⇐ a wrapper for the [SOS](https://github.com/Sandia-OpenSHMEM/SOS) OpenSHMEM library, which provides a symmetric sequence type for HPC
 
 ## Educational resources
 
