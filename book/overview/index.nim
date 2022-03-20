@@ -39,14 +39,12 @@ Beyond the libraries listed in this section, keep in mind that your favorite
 Python, Julia and R plotting library is only a [nimpy](https://github.com/yglukhov/nimpy),
 [nimjl](https://github.com/Clonkk/nimjl) and [Rnim](https://github.com/SciNim/Rnim) call away!
 
-- [ggplotnim](https://github.com/Vindaar/ggplotnim) ⇐ a pure Nim library for data visualization
-that is highly inspired by [ggplot2](https://ggplot2.tidyverse.org) for R
+- [ggplotnim](https://github.com/Vindaar/ggplotnim) ⇐ a pure Nim library for data visualization that is highly inspired by [ggplot2](https://ggplot2.tidyverse.org) for R
 - [nim-plotly](https://github.com/SciNim/nim-plotly) ⇐ a Nim wrapper for [plotly.js](https://plotly.com/javascript/basic-charts/)
 - gnuplot
   - [gnuplot.nim](https://github.com/dvolk/gnuplot.nim)
   - [gnuplotlib](https://github.com/planetis-m/gnuplotlib)
-- [asciigraph](https://github.com/KeepCoolWithCoolidge/asciigraph) ⇐ plots data using unicode symbols to draw
-  pretty graphs in the terminal
+- [asciigraph](https://github.com/KeepCoolWithCoolidge/asciigraph) ⇐ plots data using unicode symbols to draw pretty graphs in the terminal
 - [gr.nim](https://github.com/mantielero/gr.nim) ⇐ wrapper of the [GR visualization framework](https://gr-framework.org/)
 
 ## Numerical algorithms
